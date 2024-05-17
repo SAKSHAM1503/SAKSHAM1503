@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAKSHAM1503
-- 👀 I’m interested in Exploring new things 
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning aout GitHub
 - 😄 Pronouns: he/him
 
